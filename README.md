@@ -20,7 +20,7 @@ I started this because Conway's "Game of Life" already fascinated me, so i wante
 use this as another opportunity to work with python! 
 
 There is still a lot TODO, since i only started this project in the winter holidays 2022. 
-But since this is more a fun project to me, it can take a while to finish because of other priorities.
+But this being more of a fun project to me, it can take a while to finish because of other priorities.
 
 If anyone has suggestions or questions, im happy to hear about them!
 
